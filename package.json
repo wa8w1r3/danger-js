@@ -98,7 +98,7 @@
     "@babel/plugin-transform-flow-strip-types": "7.16.7",
     "@babel/plugin-transform-typescript": "7.16.7",
     "@babel/preset-env": "7.16.7",
-    "@babel/traverse": "7.16.7",
+    "@babel/traverse": "7.23.2",
     "@octokit/openapi-types": "^11.2.0",
     "@types/async-retry": "^1.4.1",
     "@types/debug": "0.0.30",
